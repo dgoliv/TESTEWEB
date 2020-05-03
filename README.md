@@ -1,4 +1,4 @@
-# Flutter-web-demo
+# Flutter web-demo
 Demo App To Host On GH-Pages
 
 # View Deployment
